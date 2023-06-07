@@ -1,0 +1,15 @@
+package com.jobready.threading;
+
+public class Sequence {
+	
+	private int value = 0;
+	// following code is thread safe, one thread at a time (synchronized)
+
+	public synchronized int getNext() { 
+		//synchronized(this) {
+		    value++;
+			return value;
+	//}
+		}
+	}
+}

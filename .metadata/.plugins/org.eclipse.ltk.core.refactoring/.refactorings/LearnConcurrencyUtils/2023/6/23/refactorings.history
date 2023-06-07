@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.jobready.threadpool&apos; to &apos;com.jobready.threadpools&apos;&#x0A;- Original project: &apos;LearnConcurrencyUtils&apos;&#x0A;- Original element: &apos;LearnConcurrencyUtils/src/com.jobready.threadpool&apos;&#x0A;- Renamed element: &apos;LearnConcurrencyUtils/src/com.jobready.threadpools&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.jobready.threadpool&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.jobready.threadpool" name="com.jobready.threadpools" qualified="false" references="true" stamp="1686154369107" textual="false" version="1.0"/>
+</session>

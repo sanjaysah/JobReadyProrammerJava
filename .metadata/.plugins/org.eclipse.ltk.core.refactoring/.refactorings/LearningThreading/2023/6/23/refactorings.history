@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Application.java&apos; to &apos;LearningThreading/src/com.jobready.threading&apos;&#x0A;- Original project: &apos;LearningThreading&apos;&#x0A;- Destination element: &apos;LearningThreading/src/com.jobready.threading&apos;&#x0A;- Original element: &apos;com.jobready.threading.Application.java&apos;" description="Copy compilation unit" destination="/src&lt;com.jobready.threading" element1="/src&lt;com.jobready.threading{Application.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1685979242060" units="1" version="1.0"/>
+</session>
